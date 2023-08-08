@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 public class PointsDebitCard extends DebitCard {
 
-    //Балы за одно пополнение карты.
+    //Баллы за одно пополнение карты.
     private final int POINT = 10;
 
     //Сколько процентов за бонус.
