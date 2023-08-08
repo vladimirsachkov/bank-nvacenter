@@ -1,4 +1,4 @@
-package ru.nvacenter.bank.result;
+package ru.nvacenter.bank.result.creditcard;
 
 import java.util.Objects;
 

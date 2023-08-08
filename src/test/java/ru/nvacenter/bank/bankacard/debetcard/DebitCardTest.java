@@ -1,8 +1,7 @@
-package ru.nvacenter.bank.debetcard;
+package ru.nvacenter.bank.bankacard.debetcard;
 
 import org.junit.jupiter.api.Test;
-import ru.nvacenter.bank.bankacard.debetcard.DebitCard;
-import ru.nvacenter.bank.result.ResultOfOperationDebitCard;
+import ru.nvacenter.bank.result.debetcard.ResultOfOperationDebitCard;
 
 import static org.junit.jupiter.api.Assertions.*;
 

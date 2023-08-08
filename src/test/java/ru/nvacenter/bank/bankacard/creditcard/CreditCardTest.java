@@ -1,7 +1,7 @@
 package ru.nvacenter.bank.bankacard.creditcard;
 
 import org.junit.jupiter.api.Test;
-import ru.nvacenter.bank.result.ResultOfOperationCreditCard;
+import ru.nvacenter.bank.result.creditcard.ResultOfOperationCreditCard;
 
 import java.lang.reflect.Field;
 

@@ -34,7 +34,6 @@ public class BankCard {
 
     //Получить информацию о балансе
     public double getBalance() {
-        System.out.println("Ваш баланс: " + balance);
         return balance;
     }
 
