@@ -15,7 +15,6 @@ public class BankCard {
     //Пополнить
     public boolean replenish(double sum) {
         balance = balance + sum;
-        System.out.println("Ваш баланс пополнен на " + sum);
         getBalance();
         return true;
     }
